@@ -1,0 +1,312 @@
+/*aside*/
+aside
+{
+	margin-left: 5px;
+	/*margin-top: -470px;*/
+	text-align: justify;
+	background-color: orange;
+}
+.imagep
+{
+	width: 180px;
+	height: 180px;
+	border-radius:100px;
+	margin-top: 15px;
+	margin-left: 100px;
+}
+#nom
+{
+	margin-left: 110px;
+	font-size: 24px;
+	color: white;
+}
+#presentation
+{
+	margin-top: 8px;
+	margin-bottom: 4px;
+	margin-left: 5px;
+	margin-right: 3px;
+	text-align: justify;
+	padding-top: 15px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 13px;
+}
+#profil
+{
+	background-color: white;
+	text-align: center;
+}
+.titregauheh2
+{
+	background-color: white;
+	text-align: center;
+}
+.elementcolorblanc
+{
+	width: 2px;
+	height: 10px;
+	background-color: white;
+	margin-top: 25px;
+}
+.titreh4,.titreh6
+{
+	color: white;
+}
+
+
+/*h4
+{
+	margin-bottom: 0;
+	margin-left: 4px;
+	margin-right: 4px;
+	color: white;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top:2px;
+	
+	font-size: 18px;
+	text-align: left;
+}*/
+h6
+{
+	font-size: 14px;
+	font-style: normal;
+	margin-left: 4px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.paragraphegauche
+{
+	margin-top: -10px;
+}
+
+.simplon, .elementcolorblanc, .openclassrooms, .livementor
+{
+	display: inline-block;
+	margin: 0;
+	margin-top: -50px; 
+	margin-left: 3px;
+
+}
+
+#bac, #bep
+{
+	margin-top: 5px;
+	padding-left: 3px;
+
+}
+#competences, #competences1
+{
+	display:inline-block;
+	margin-top: 15px;
+}
+img
+{
+	width: 22px;
+    height:22px;
+    margin-top: 5px;
+    border-radius:100px;
+}
+
+.block
+{
+	display: flex;
+	margin: 2px;
+	padding-left: 15px;
+	padding-right: 10px;
+	padding-bottom: 6px;
+	margin-right: 0;
+}
+.atouts
+{
+	display: inline-block;
+	margin-top: -350px;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+#section
+{
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-top: 30px;
+	padding: 4px 4px 4px 4px;
+}
+
+
+
+
+
+/*partie de droite */
+header 
+{
+	text-align: center;
+	background-color: black;
+	float: right;
+	padding-bottom: 14px;
+	width: 100%; 
+	height: 90px;
+}
+body
+{
+	display: inline-flex;
+}
+#partiedroite
+{
+	width: 80%;
+	margin-left: 3px;
+}
+#partiegauche
+{
+	width: 35%;
+}
+#titre
+{
+	color: orange;
+	padding-top: 14px;
+}
+#titre, .info
+{	
+	margin: 0;
+}
+.info, .elementcolor
+{
+	display: inline-flex;
+	color: white;
+	margin-left: 4px;
+	margin-right: 2px;
+}
+.elementcolor
+{
+	width: 2px;
+	height: 10px;
+	background-color: orange;
+	margin-top: 25px;
+}
+header, #exp
+{
+	display: inline-block;
+}
+#exp
+{
+	/*margin-left: 270px;*/
+	margin-bottom: 30px;
+	background: black;
+	color: white;
+	margin-top: 30px;
+	width: 90%;
+	height: 3%;
+	padding: 0 2px 0 2px;
+
+}
+#imgexp
+{
+	float: left;
+	/*margin-left: 270px;*/
+	margin-top: 20px;
+	padding-right: 30px;
+}
+#imgexp, .titreh3
+{
+	display: inline-flex;
+}
+.titredisplay
+{
+	margin-top:30px;
+}
+.elementcolor1
+{
+	width: 2px;
+	height: 10px;
+	background-color: orange;
+	margin-top:10px;
+	margin-left: 2px;
+}
+.titreh3,.elementcolor1
+{
+	display: inline-flex;
+}
+.titreh3
+{
+	margin-bottom: 0;
+}
+
+.titreh3, .titreh5
+{
+	display: inline-block;
+	margin-top: 0;
+	margin-left: 2px;
+	
+}
+.paragraphe
+{
+	margin-top: -10px;
+	margin-left: 10px;
+}
+#petittitre
+{
+	/*margin-left: 220px;*/
+	margin-top: 50px;
+	background: orange;
+	width: 50%;
+	height: 20px;
+	padding-left: 50px;
+	font-size: 20px;
+}
+/*#position, #position1
+{
+	display: inline-flex;
+}*/
+.positionpuce
+{
+	display: inline-flex;
+	/*margin-left: 270px;*/
+}
+#puce, #puce1
+{
+	display: inline-block;
+
+}
+#autreexp
+{
+	/*margin-left: 270px;*/
+	background: black;
+	color: white;
+	width: 70%;
+	height: 2%;
+	padding: 0 2px 0 2px;
+	margin-bottom: 15px;
+}
+#imgautreexp
+{
+	float: left;
+	/*margin-left: 270px;*/
+/*	margin-top: 10px;*/
+	padding-right: 30px;
+	height: 3%;
+	width: 2.8%;
+}
+#imgautreexp, .titreh3
+{
+	display: inline-flex;
+}
+#elementcolor1
+{
+	display: inline-flex;
+	width: 90%;
+	height: 6px;
+	background-color: black;
+	float: right;
+	margin-top: 28px;
+/*	margin-bottom: 4px;*/
+}
+#titrefooter, #imageprogress
+{
+	margin-top: 20px;
+	float: left;
+	display: inline-flex;
+	/*margin-left: 280px;*/
+}
