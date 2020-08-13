@@ -1,7 +1,7 @@
 /*aside*/
 aside
 {
-	margin-left: 5px;
+	/*margin-left: 5px;*/
 	/*margin-top: -470px;*/
 	text-align: justify;
 	background-color: orange;
@@ -53,6 +53,10 @@ aside
 .titreh4,.titreh6
 {
 	color: white;
+	padding-left: 5px;
+	padding-right: 3px;
+	/*margin-top: 0;*/
+
 }
 
 
@@ -76,20 +80,25 @@ h6
 	margin-left: 4px;
 	padding-left: 2px;
 	padding-right: 2px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	/*margin-top: -10px*/
+	
 }
+
 .paragraphegauche
 {
-	margin-top: -10px;
+	margin-top: -20px;
+	padding-left: 3px;
+	padding-right: 5px;
+	font-size: 13px;
 }
 
 .simplon, .elementcolorblanc, .openclassrooms, .livementor
 {
 	display: inline-block;
-	margin: 0;
-	margin-top: -50px; 
+	/*margin: 0;*/
+	margin-top: -100px; 
 	margin-left: 3px;
+
 
 }
 
@@ -147,7 +156,7 @@ header
 	background-color: black;
 	float: right;
 	padding-bottom: 14px;
-	width: 100%; 
+	width: 100.5%; 
 	height: 90px;
 }
 body
@@ -156,7 +165,7 @@ body
 }
 #partiedroite
 {
-	width: 80%;
+	width: 90%;
 	margin-left: 3px;
 }
 #partiegauche
@@ -194,6 +203,7 @@ header, #exp
 {
 	/*margin-left: 270px;*/
 	margin-bottom: 30px;
+	margin-left: 5px;
 	background: black;
 	color: white;
 	margin-top: 30px;
@@ -207,7 +217,10 @@ header, #exp
 	float: left;
 	/*margin-left: 270px;*/
 	margin-top: 20px;
-	padding-right: 30px;
+	/*padding-right: 30px;*/
+	height: 3%;
+	width: 2.8%;
+	margin-left: 5px;
 }
 #imgexp, .titreh3
 {
@@ -249,7 +262,7 @@ header, #exp
 #petittitre
 {
 	/*margin-left: 220px;*/
-	margin-top: 50px;
+	margin-top: 40px;
 	background: orange;
 	width: 50%;
 	height: 20px;
@@ -278,25 +291,28 @@ header, #exp
 	width: 70%;
 	height: 2%;
 	padding: 0 2px 0 2px;
-	margin-bottom: 15px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+
 }
 #imgautreexp
 {
 	float: left;
 	/*margin-left: 270px;*/
 /*	margin-top: 10px;*/
-	padding-right: 30px;
+	/*padding-right: 30px;*/
 	height: 3%;
 	width: 2.8%;
 }
 #imgautreexp, .titreh3
 {
 	display: inline-flex;
+
 }
 #elementcolor1
 {
 	display: inline-flex;
-	width: 90%;
+	width: 100%;
 	height: 6px;
 	background-color: black;
 	float: right;
@@ -308,5 +324,11 @@ header, #exp
 	margin-top: 20px;
 	float: left;
 	display: inline-flex;
-	/*margin-left: 280px;*/
+	margin-left: 260px;
+}
+#imageprogress
+{
+	width: 25%;
+	height: 15%;
+	margin-right: 15px;
 }
