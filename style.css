@@ -1,0 +1,433 @@
+aside
+{
+	
+	text-align: center;
+	background-color: #ee704b;
+	height:100%;
+}
+section
+{  
+	margin: 0; display: block; 
+}
+.imagep
+{
+	width: auto;
+	height: 180px;
+	border-radius:100px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#nom
+{
+
+	font-size: 24px;
+	color: white;
+}
+#presentation
+{
+	margin-top: 8px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 3px;
+	text-align: justify;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 14px;
+}
+#profil
+{
+	background-color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	
+}
+.titregauheh2
+{
+	background-color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+.elementcolorblanc
+{
+	width: 2px;
+	height: 10px;
+	background-color: white;
+	margin-top: 25px;
+}
+.titreh4,.titreh6
+{
+	color: white;
+	padding-left: 5px;
+	padding-right: 3px;
+	margin: 0;
+	font-size: 12px;
+}
+
+h6
+{
+	font-size: 12px;
+	font-style: normal;
+	margin-left: 4px;
+	padding-left: 2px;
+	padding-right: 2px;
+	margin-top: 0;
+	
+}
+
+.paragraphegauche
+{
+	margin-top: 10px;
+	padding-left: 3px;
+	padding-right: 5px;
+	font-size: 13px;
+}
+
+.simplon, .elementcolorblanc, .openclassrooms, .livementor
+{
+	display: inline-block;
+	/*margin: 0;*/
+	margin-top: -100px; 
+	margin-left: 3px;
+}
+
+#bac, #bep
+{
+	margin-top: 5px;
+	padding-left: 3px;
+
+}
+.competences
+{
+	margin-top: 15px;
+	text-align: center;
+	display: inline-block;
+	height: 20%;
+}
+
+img
+{
+	width: 22px;
+    height:22px;
+    margin-top: 5px;
+    border-radius:100px;
+}
+
+.block
+{
+	display:inline-block;
+	margin: 0;
+	padding-left: 2px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	margin-right: 0;
+}
+#h4
+{
+	margin-left: 30px;
+}
+#imgpack
+{
+	margin-left: 30px;ssss
+}
+.atouts
+{
+	display: inline-block;
+	padding-top: 30px;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+#section
+{
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-top: 30px;
+	padding: 4px 4px 4px 4px;
+}
+
+
+
+
+
+/*partie de droite */
+header 
+{
+	text-align: center;
+	background-color: black;
+	padding-bottom: 14px;
+	width:100%; 
+	height: 90px;
+}
+body
+{
+	display: inline-flex;
+}
+#partiedroite
+{
+	width: 100%;
+	height: 50%;
+}
+#partiegauche
+{
+	width: 35%;
+	
+}
+footer
+{
+	margin-top: 150px;
+	margin-bottom: 0;
+	height: 20%;
+}
+#titre
+{
+	color:  #ee704b;
+	padding-top: 14px;
+}
+#titre, .info
+{	
+	margin: 0;
+}
+.info, .elementcolor
+{
+	display: inline-flex;
+	color: white;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.elementcolor
+{
+	width: 2px;
+	height: 10px;
+	background-color: #ee704b;
+	margin-top: 25px;
+}
+header, .exp
+{
+	display: inline-block;
+}
+.exp
+{
+	margin-left: 14px;
+	margin-bottom: 25px;
+	background: black;
+	color: white;
+	margin-top: 25px;
+	width: 90%;	
+	text-align: center;
+}
+
+#imgexp
+{
+	float: left;
+	margin-top: 5px;
+	height: 2%;
+	width: 2%;
+	margin-left: 14px;
+	padding-right: 20px;
+}
+#imgexp, .titreh3
+{
+	display: inline-flex;
+	
+}
+
+.elementcolor1
+{
+	width: 2px;
+	height: 10px;
+	background-color:  #ee704b;
+	margin-top:10px;
+	margin-left: 2px;
+}
+.titreh3,.elementcolor1
+{
+	display: inline-flex;
+}
+.titreh3
+{
+	margin-bottom: 0;
+}
+
+.titreh3, .titreh5
+{
+	display: inline-block;
+	margin-top: 0;
+	margin-left: 2px;	
+}
+
+.titreh5
+{
+	margin-right: 0;
+}
+.paragraphe
+{
+	margin-top: -10px;
+	margin-left: 10px;
+}
+#petittitre
+{
+	margin-top: 90px;
+	background:  #ee704b;
+	width: 60%;
+	height: 25px;
+	padding: 0px 0px 1px 30px;
+	font-size: 20px;
+	/*margin-bottom: 5px;*/
+}
+
+.positionpuce
+{
+	display: inline-flex;
+	
+}
+#puce, #puce1
+{
+	display: inline-block;
+	width: 45%;
+	margin-bottom: 5px;
+
+}
+#autreexp
+{
+	margin-left: 14px;
+	background: black;
+	color: white;
+	margin-top: 20px;
+	width: 70%;
+	height: 45px;
+	text-align: center;
+	padding-top: 1px;
+
+}
+
+#imgautreexp
+{
+	float: left;
+	padding-right: 20px;
+	margin-left: 15px;
+	height: 1%;
+	width: 2.8%;
+}
+#imgautreexp, .titreh3
+{
+	display: inline-flex;
+	/*margin-top: 2px;*/
+}
+#elementcolor1
+{
+	display: inline-flex;
+	width: 100%;
+	height: 6px;
+	background-color: black;
+	float: right;
+	margin-top: 28px;
+/*	margin-bottom: 4px;*/
+}
+#titrefooter, #imageprogress
+{
+	margin-top: 60px;
+	float: left;
+	display: inline-flex;
+	margin-left: 260px;
+}
+#imageprogress
+{
+	width: 25%;
+	height: 15%;
+	margin-right: 15px;
+}
+
+/*mediaquery*/
+@media screen and (max-width: 1024px)
+{
+	aside
+	{
+		width: auto;
+		height: 100%;
+	}
+	#presentation
+	{
+		font-size: 10px;
+		text-align: justify;
+	}
+	.atouts, .elementcolorblanc
+	{
+		font-size: 10px;
+	}
+	#nom
+	{
+		font-size: 16px;
+		text-align:left;
+		margin-left:40px;
+	}
+
+	#nom, .imagep
+	{
+		display: block;
+		text-align: center;
+	}
+	.imagep
+	{
+		margin-left: 45px;
+	}
+
+
+	#partiedroite
+	{
+		width: 80%;
+	}
+	header
+	{
+		display: inline-block;
+		text-align: center;
+		padding-left: 12px;
+		margin-top:4px;
+	}
+	.info
+	{
+		font-size: 12px;
+		font-family:serif;
+	}
+	#imgexp
+	{
+		width: 2.7%;
+		height: 1%;
+	}
+	.exp
+	{
+		margin-top: 40px;
+		margin-bottom: 20px;
+	}
+	#imgautreexp
+	{
+		width: 3.4%;
+		height: 2%;
+	}
+
+	
+	.titredisplay
+	{
+		font-size: 14px;
+		font-family: serif;
+		/*margin-left: 10px;*/
+	}
+	
+	#soustitre
+	{
+		display: flex;
+	}
+	.paragraphe
+	{
+		font-size: 10px;
+		width: 70%;
+	}
+	#petittitre
+	{
+		margin-top: 60px;
+	}
+
+}
